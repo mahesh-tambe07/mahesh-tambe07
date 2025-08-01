@@ -1,4 +1,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
+<p align="center">
+  <img src="assets/animation.gif" alt="Lottie Animation" width="300" />
+</p>
 
 - 🔭 I’m currently working on **Internscope Live Project**
 
