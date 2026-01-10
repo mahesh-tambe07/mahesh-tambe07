@@ -103,13 +103,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mahesh-tambe07&theme=highcontrast&hide_border=true&card_width=800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh-tambe07&layout=compact&theme=radical&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahesh-tambe07&theme=github-compact&hide_border=true" />
