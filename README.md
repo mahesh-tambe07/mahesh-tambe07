@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech in Computer Science & Engineering** (CGPA: 8.34)  
+- 🎓 **B.Tech in Computer Science & Engineering** (CGPA: 8.39)  
 - 💼 **Software Development Engineer @ VM3 Tech Solutions LLP**  
 - 🧠 Strong in **Backend Development & REST APIs**  
 - ☁️ Experience with **AWS S3, Payments, Email Automation**  
